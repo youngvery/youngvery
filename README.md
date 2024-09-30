@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66b328a6d9896b3d144352b2?variant=dark&roadmaps=qa" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66b328a6d9896b3d144352b2?variant=dark&roadmaps=qa" alt="roadmap.sh"/></a>/n
 <a href="https://tryhackme.com"><img src="https://tryhackme.com/badge/3456237" alt="tryhackme.com"/></a>
